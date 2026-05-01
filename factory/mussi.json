@@ -1,6 +1,9 @@
 {
 	"name": "mussi",
 	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		},
 		"trustModeClaimForMi": {
 			"value": "Enabled",
 			"editable": true
