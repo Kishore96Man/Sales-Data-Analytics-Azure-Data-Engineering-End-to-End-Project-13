@@ -1,0 +1,15 @@
+{
+	"name": "mussi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16e54368-ee8d-4bc2-867f-31696d8891db",
+		"tenantId": "764bacf2-fc08-4d88-b14d-da960ffdbe18"
+	}
+}
